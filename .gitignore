@@ -75,3 +75,5 @@ build-SortFilterProxyModel-*
 *.dll
 *.exe
 
+build
+*.user
